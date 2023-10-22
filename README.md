@@ -1,4 +1,3 @@
 # Linkedln clone
 
-![linkedln clone](assets/screen-capture.webm)
-
+![linkedln clone](assets/screen-capture.mp4)
